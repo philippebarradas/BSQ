@@ -20,7 +20,7 @@
 # include <sys/stat.h>
 # include <fcntl.h>
 # include <stdio.h>
-# include "ft.h"
+# include "../includes/ft.h"
 
 int		ft_create_map();
 char	*ft_create_dict(char *str);

@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft.h"
+#include "../includes/ft.h"
 
 int			plus_petit(int **i_map, int y, int x)
 {

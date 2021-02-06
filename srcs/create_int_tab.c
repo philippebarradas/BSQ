@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft.h"
+#include "../includes/ft.h"
 
 void			fill_int_tab(int **tab, char *str, t_data *data)
 {

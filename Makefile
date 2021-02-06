@@ -14,15 +14,15 @@ CC		=	gcc
 NAME	=	BSQ
 CFLAGS	=	-Wall -Wextra -Werror
 RM		=	rm -rf
-SRC		=	main.c \
-			init_data.c \
-			solver.c \
-			create_int_tab.c \
-			create_nchar_map.c \
-			ft_check_valid_map.c \
-			libzero.c \
-			libun.c \
-			ft_stdin.c \
+SRC		=	srcs/main.c \
+			srcs/init_data.c \
+			srcs/solver.c \
+			srcs/create_int_tab.c \
+			srcs/create_nchar_map.c \
+			srcs/ft_check_valid_map.c \
+			srcs/libzero.c \
+			srcs/libun.c \
+			srcs/ft_stdin.c \
 
 OBJ		=	$(SRC:.c=.o)
 

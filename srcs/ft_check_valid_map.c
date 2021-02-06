@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "lib.h"
+#include "../includes/lib.h"
 
 int			is_val(char c, t_data *data)
 {

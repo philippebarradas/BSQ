@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft.h"
+#include "../includes/ft.h"
 
 void		display_finish(char **c_map, t_data *data)
 {

@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft.h"
+#include "../includes/ft.h"
 
 int				g_stdin(char *map, t_data *data)
 {
