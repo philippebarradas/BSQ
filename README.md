@@ -4,10 +4,10 @@ Le plus grand carré :
   1. Il s’agit de trouver le plus grand carré possible sur un plateau en évitant des obstacles.
   2. Un plateau vous est transmis dans un fichier passé en argument du programme.
   3. La première ligne du plateau contient les informations pour lire la carte :
-    – Le nombre de lignes du plateau ;
-    – Le caractère "vide" ;
-    – Le caractère "obstacle" ;
-    – Le caractère "plein".
+    – Le nombre de lignes du plateau ;/
+    – Le caractère "vide" ;/
+    – Le caractère "obstacle" ;/
+    – Le caractère "plein"./
 
   4. Le plateau est composé de lignes de ’caractère "vide"’ et de ’caractère "obstacle"’.
   5. Lebutduprogrammeestderemplacerles’caractère "vide"’pardes’caractère "plein"’ pour représenter le plus grand carré possible.
