@@ -10,7 +10,7 @@ Le plus grand carré :
     – Le caractère "plein".  
 
   4. Le plateau est composé de lignes de ’caractère "vide"’ et de ’caractère "obstacle"’.
-  5. Lebutduprogrammeestderemplacerles’caractère "vide"’pardes’caractère "plein"’ pour représenter le plus grand carré possible.
+  5. Le but du programme est de remplacer les ’caractère "vide" ’par des ’caractère "plein" ’ pour représenter le plus grand carré possible.
   6. Dans le cas où il y en a plusieurs solutions, on choisira de représenter le carré le plus en haut à gauche.
 
 Carte valide :
