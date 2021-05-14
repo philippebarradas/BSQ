@@ -1,5 +1,4 @@
-# BSQ - 42 Piscine C projet final\
-'''
+# BSQ - 42 Piscine C projet final
 \
 Le plus grand carré :\
   1. Il s’agit de trouver le plus grand carré possible sur un plateau en évitant des obstacles.\
@@ -21,7 +20,6 @@ Carte valide :\
   4. Les caractères présent dans la carte doivent être uniquement ceux présenté à la première ligne.\
   5. En cas de carte invalide vous afficherez sur la sortie d’erreur : map error suivi d’un retour à la ligne puis il passera traitement du plateau suivant.\
 \
-'''
 Exemple de fonctionnement :\
 
 %>cat example_file\
