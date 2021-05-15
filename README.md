@@ -16,7 +16,7 @@ Le plus grand carré :
 Carte valide :
   1. Toutes les lignes doivent avoir la même longueur.
   2. Il y a au moins une ligne d’au moins une case.
-  3. Àlafindechaqueligneilyaunretouràlaligne.
+  3. À la fin de chaque ligne il y a un retour à la ligne.
   4. Les caractères présent dans la carte doivent être uniquement ceux présenté à la première ligne.
   5. En cas de carte invalide vous afficherez sur la sortie d’erreur : map error suivi d’un retour à la ligne puis il passera traitement du plateau suivant.
 
